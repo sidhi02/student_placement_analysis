@@ -7,6 +7,7 @@ The dataset used for this challenge is a student placement dataset containing si
 - Internship experience
 - Communication and technical skills
 - Placement status
+
 This dataset is suitable as it directly aligns with the objective of analyzing student outcomes and supports both insight generation and prediction.
 ## Data Preparation & Quality Assurance
 To ensure data quality and completeness, the following steps were carried out:
